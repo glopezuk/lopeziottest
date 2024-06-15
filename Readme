@@ -4,7 +4,7 @@ My idea is to use a esp32 board to collect some data and show it on the phone ov
 
 This is the list of files of the project
 
-FLOW_NET.drawio = flowdiagram 
+FLOW_NET.drawio.png = flowdiagram 
 
 thanks
 
