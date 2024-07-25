@@ -4,9 +4,12 @@ My idea is to use a esp32 board to collect some data and show it on the phone ov
 
 Hardware:
 
-ESP32 = ESP32-S3-WROOM-1
+ESP32 = ESP32-S3-DevKitC-1
+ENC28J60 Ethernet Board
 
-Esp32-poe-p-cam details = https://www.elecrow.com/media/qb/tmp/common/file/2024/03/Schematic_esp32-S3-POE-P-CAM_V.5.0.0_2024-03-12_b7d00204af39bd09f900fe861459032a.pdf
+the enc28j60 has to work in promiscuous mode to collect some specific data
+
+Esp32 board details = http://wiki.fluidnc.com/en/hardware/ESP32-S3_Pin_Reference
 
 This is the list of files of the project
 
